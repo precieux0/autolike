@@ -1,11 +1,12 @@
-from flask import Flask, render_template, request, jsonify, session
+from flask import Flask, render_template, request, jsonify
 import threading
 import time
 import os
 from autolike import facebook_autolike
 
 app = Flask(__name__)
-app.secret_key = os.environ.get("SECRET_KEY", "autolike-secret-key-2024")
+# SUPPRIMER la ligne secret_key ou la commenter
+# app.secret_key = os.environ.get("SECRET_KEY", "autolike-secret-key-2024")
 
 # Stockage en mémoire (pour la démo)
 active_jobs = {}
