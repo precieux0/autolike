@@ -43,7 +43,7 @@ To use (with caution), simply do:
     like_result_dict = autolike.facebook_autolike(url, run_time)
     print(like_result_dict)
 
-Demonstration video: https://youtu.be/OLQNz0mbJg4
+Demonstration video: https://
 
 Development
 ~~~~~~~~~~~
@@ -61,7 +61,7 @@ For development purpose we recommend to use a virtual environment.
 Contribute
 ~~~~~~~~~~
 
-Create Github Pull Request https://github.com/arsho/autolike/pulls
+Create Github Pull Request https://github.com/precieux0/autolike/pulls
 
 If you have suggestion use GitHub issue system or send a message in Facebook https://www.facebook.com/ars.shovon.
 
@@ -72,6 +72,6 @@ If you have suggestion use GitHub issue system or send a message in Facebook htt
 .. |Python| image:: https://img.shields.io/pypi/pyversions/autolike.svg?
    :target: https://pypi.python.org/pypi/autolike/1.0.1
       
-.. |Size| image:: https://img.shields.io/github/size/arsho/autolike/autolike/__init__.py.svg?
-   :target: https://github.com/arsho/autolike/   
+.. |Size| image:: https://img.shields.io/github/size/precieux0/autolike/autolike/__init__.py.svg?
+   :target: https://github.com/precieux0/autolike/   
    
